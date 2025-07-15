@@ -1,9 +1,9 @@
 ##################
-A Comprehensive Guide: Resolving Your Epson Printer Issues
+Resolving Your Epson Printer Issues: A Comprehensive Guide
 ##################
 
 .. meta::
-   :msvalidate.01: 108BF3BCC1EC90CA1EBEFF8001FAEFEA
+   :msvalidate.01: 976EEDB16D7FBECFFF12CAAD22317912
 
 .. image:: blank.png
       :width: 350px
